@@ -1,2 +1,5 @@
 # hello-world
-Just a repository for practice.
+
+Hi Humans!
+
+I am a student majoring in physics. I just come here for fun!
